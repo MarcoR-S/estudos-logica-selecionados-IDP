@@ -11,9 +11,9 @@ Este repositório contém uma série de algoritmos desenvolvidos em **Portugol**
 Atualmente, o repositório conta com os seguintes desafios resolvidos:
 
 ### Nível 1 ao 3: Conceitos Fundamentais e Repetições
-* [cite_start]**Cálculo de Fatorial (`Fatorial.por`):** Algoritmo que utiliza a estrutura `para` para calcular o fatorial de um número inteiro informado pelo usuário.
-* [cite_start]**Média e Soma Infinita (`mediaSomaInfinita.por`):** Um programa que utiliza a estrutura `faca...enquanto` para somar e tirar a média de números digitados continuamente até que o valor `0` seja inserido[cite: 2].
-* [cite_start]**Verificador de Números Primos (`NumerosPrimos.por`):** Verifica se um número é primo contando seus divisores através de uma estrutura de repetição e uma condicional `se`.
+* **Cálculo de Fatorial (`Fatorial.por`):** Algoritmo que utiliza a estrutura `para` para calcular o fatorial de um número inteiro informado pelo usuário.
+* **Média e Soma Infinita (`mediaSomaInfinita.por`):** Um programa que utiliza a estrutura `faca...enquanto` para somar e tirar a média de números digitados continuamente até que o valor `0` seja inserido[cite: 2].
+* **Verificador de Números Primos (`NumerosPrimos.por`):** Verifica se um número é primo contando seus divisores através de uma estrutura de repetição e uma condicional `se`.
 
 *(Mais níveis serão adicionados conforme o progresso das aulas)*
 
