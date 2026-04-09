@@ -1,3 +1,6 @@
+
+![Logomarca_pequena_IDP](https://github.com/user-attachments/assets/51de098c-a3b7-4ee6-854d-73b7065ca245)
+
 # Exercícios de Portugol - Faculdade IDP 🎓
 
 Este repositório contém uma série de algoritmos desenvolvidos em **Portugol** como parte das atividades práticas da faculdade IDP. Os exercícios estão organizados por níveis de dificuldade para facilitar o aprendizado da lógica de programação.
